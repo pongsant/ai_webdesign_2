@@ -1,0 +1,370 @@
+[
+  {
+    "slug": "swimming",
+    "artist": "Mac Miller",
+    "title": "Swimming",
+    "year": "2018",
+    "genre": "Hip-Hop/Rap",
+    "url": "https://music.apple.com/us/album/swimming/1408996052?uo=4",
+    "tracks": [
+      {
+        "title": "Come Back to Earth",
+        "seconds": 162
+      },
+      {
+        "title": "Hurt Feelings",
+        "seconds": 246
+      },
+      {
+        "title": "What's the Use?",
+        "seconds": 289
+      },
+      {
+        "title": "Perfecto",
+        "seconds": 215
+      },
+      {
+        "title": "Self Care",
+        "seconds": 345
+      },
+      {
+        "title": "Wings",
+        "seconds": 250
+      },
+      {
+        "title": "Ladders",
+        "seconds": 287
+      },
+      {
+        "title": "Small Worlds",
+        "seconds": 272
+      },
+      {
+        "title": "Conversation, Pt. 1",
+        "seconds": 210
+      },
+      {
+        "title": "Dunno",
+        "seconds": 237
+      },
+      {
+        "title": "Jet Fuel",
+        "seconds": 345
+      },
+      {
+        "title": "2009",
+        "seconds": 348
+      },
+      {
+        "title": "So It Goes",
+        "seconds": 313
+      }
+    ]
+  },
+  {
+    "slug": "blonde",
+    "artist": "Frank Ocean",
+    "title": "Blonde",
+    "year": "2016",
+    "genre": "Pop",
+    "url": "https://music.apple.com/us/album/blonde/1146195596?uo=4",
+    "tracks": [
+      {
+        "title": "Nikes",
+        "seconds": 314
+      },
+      {
+        "title": "Ivy",
+        "seconds": 249
+      },
+      {
+        "title": "Pink + White",
+        "seconds": 185
+      },
+      {
+        "title": "Be Yourself",
+        "seconds": 87
+      },
+      {
+        "title": "Solo",
+        "seconds": 257
+      },
+      {
+        "title": "Skyline To",
+        "seconds": 185
+      },
+      {
+        "title": "Self Control",
+        "seconds": 250
+      },
+      {
+        "title": "Good Guy",
+        "seconds": 67
+      },
+      {
+        "title": "Nights",
+        "seconds": 307
+      },
+      {
+        "title": "Solo (Reprise)",
+        "seconds": 79
+      },
+      {
+        "title": "Pretty Sweet",
+        "seconds": 158
+      },
+      {
+        "title": "Facebook Story",
+        "seconds": 69
+      },
+      {
+        "title": "Close to You",
+        "seconds": 86
+      },
+      {
+        "title": "White Ferrari",
+        "seconds": 249
+      },
+      {
+        "title": "Seigfried",
+        "seconds": 335
+      },
+      {
+        "title": "Godspeed",
+        "seconds": 178
+      },
+      {
+        "title": "Futura Free",
+        "seconds": 564
+      }
+    ]
+  },
+  {
+    "slug": "freudian",
+    "artist": "Daniel Caesar",
+    "title": "Freudian",
+    "year": "2017",
+    "genre": "R&B/Soul",
+    "url": "https://music.apple.com/us/album/freudian/1799080774?uo=4",
+    "tracks": [
+      {
+        "title": "Get You (feat. Kali Uchis)",
+        "seconds": 278
+      },
+      {
+        "title": "Best Part (feat. H.E.R.)",
+        "seconds": 210
+      },
+      {
+        "title": "Hold Me Down",
+        "seconds": 231
+      },
+      {
+        "title": "Neu Roses (Transgressor's Song)",
+        "seconds": 182
+      },
+      {
+        "title": "Loose",
+        "seconds": 186
+      },
+      {
+        "title": "We Find Love",
+        "seconds": 255
+      },
+      {
+        "title": "Blessed",
+        "seconds": 241
+      },
+      {
+        "title": "Take Me Away (feat. Syd)",
+        "seconds": 226
+      },
+      {
+        "title": "Transform (feat. Charlotte Day Wilson)",
+        "seconds": 281
+      },
+      {
+        "title": "Freudian",
+        "seconds": 602
+      }
+    ]
+  },
+  {
+    "slug": "after-hours",
+    "artist": "The Weeknd",
+    "title": "After Hours",
+    "year": "2020",
+    "genre": "R&B/Soul",
+    "url": "https://music.apple.com/us/album/after-hours/1499385848?uo=4",
+    "tracks": [
+      {
+        "title": "Alone Again",
+        "seconds": 250
+      },
+      {
+        "title": "Too Late",
+        "seconds": 240
+      },
+      {
+        "title": "Hardest To Love",
+        "seconds": 211
+      },
+      {
+        "title": "Scared To Live",
+        "seconds": 191
+      },
+      {
+        "title": "Snowchild",
+        "seconds": 247
+      },
+      {
+        "title": "Escape From LA",
+        "seconds": 356
+      },
+      {
+        "title": "Heartless",
+        "seconds": 198
+      },
+      {
+        "title": "Faith",
+        "seconds": 283
+      },
+      {
+        "title": "Blinding Lights",
+        "seconds": 200
+      },
+      {
+        "title": "In Your Eyes",
+        "seconds": 238
+      },
+      {
+        "title": "Save Your Tears",
+        "seconds": 216
+      },
+      {
+        "title": "Repeat After Me (Interlude)",
+        "seconds": 196
+      },
+      {
+        "title": "After Hours",
+        "seconds": 361
+      },
+      {
+        "title": "Until I Bleed Out",
+        "seconds": 190
+      }
+    ]
+  },
+  {
+    "slug": "love-deluxe",
+    "artist": "Sade",
+    "title": "Love Deluxe",
+    "year": "1992",
+    "genre": "R&B/Soul",
+    "url": "https://music.apple.com/us/album/love-deluxe/158796559?uo=4",
+    "tracks": [
+      {
+        "title": "No Ordinary Love",
+        "seconds": 440
+      },
+      {
+        "title": "Feel No Pain",
+        "seconds": 309
+      },
+      {
+        "title": "I Couldn't Love You More",
+        "seconds": 228
+      },
+      {
+        "title": "Like a Tattoo",
+        "seconds": 218
+      },
+      {
+        "title": "Kiss of Life",
+        "seconds": 350
+      },
+      {
+        "title": "Cherish the Day",
+        "seconds": 332
+      },
+      {
+        "title": "Pearls",
+        "seconds": 273
+      },
+      {
+        "title": "Bullet Proof Soul",
+        "seconds": 325
+      },
+      {
+        "title": "Mermaid",
+        "seconds": 264
+      }
+    ]
+  },
+  {
+    "slug": "submarine",
+    "artist": "The Mar\u00edas",
+    "title": "Submarine",
+    "year": "2024",
+    "genre": "Alternative",
+    "url": "https://music.apple.com/us/album/submarine/1733730985?uo=4",
+    "tracks": [
+      {
+        "title": "Ride",
+        "seconds": 81
+      },
+      {
+        "title": "Hamptons",
+        "seconds": 188
+      },
+      {
+        "title": "Echo",
+        "seconds": 209
+      },
+      {
+        "title": "Run Your Mouth",
+        "seconds": 160
+      },
+      {
+        "title": "Real Life",
+        "seconds": 207
+      },
+      {
+        "title": "Blur",
+        "seconds": 225
+      },
+      {
+        "title": "Paranoia",
+        "seconds": 232
+      },
+      {
+        "title": "Lejos de Ti",
+        "seconds": 180
+      },
+      {
+        "title": "Love You Anyway",
+        "seconds": 237
+      },
+      {
+        "title": "Ay No Puedo",
+        "seconds": 182
+      },
+      {
+        "title": "No One Noticed",
+        "seconds": 237
+      },
+      {
+        "title": "Vicious Sensitive Robot",
+        "seconds": 194
+      },
+      {
+        "title": "If Only",
+        "seconds": 156
+      },
+      {
+        "title": "Sienna",
+        "seconds": 225
+      }
+    ]
+  }
+]
